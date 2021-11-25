@@ -1,0 +1,45 @@
+
+.Section4{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 90%;
+    height: 16vh;
+    margin: 0 84px;
+}
+.Section4_logo{
+    display: flex;
+    font-family: "IBM Plex Sans", sans-serif;
+    width: 522px;
+}
+.Section4_SM{
+    display: inline-flex;
+   justify-content:flex-end;
+   width: 522px;
+}
+.Section4_SM a{
+    margin-left: 24px;
+}
+.Section4_year{
+    
+    font-family: "IBM Plex Sans", sans-serif;
+    width: 522px;
+    color: #8A94A7;
+}
+.Section4_Contact{
+    
+    font-family: "IBM Plex Sans", sans-serif;
+    width: 522px;
+    color: #8A94A7;
+}
+a{
+    font-family: "IBM Plex Sans", sans-serif;
+    font-size: 14px;
+    line-height: 22px;
+    letter-spacing: 0px;
+    color: #8A94A7;
+    text-decoration: none; 
+    padding:8px;
+    padding-bottom: 3px;
+    height: 32px;
+}
